@@ -1,5 +1,5 @@
 # Eyes
-## Exercise on eyes
+
 # Description
 The Animated Eye's function off of the user's mouse movements via Javascript and CSS.
 # How To Run
@@ -31,4 +31,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-# eyes
+
