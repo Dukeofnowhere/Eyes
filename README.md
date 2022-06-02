@@ -12,7 +12,7 @@ When the page loads, move your mouse around and notice how the eyes track the mo
 
 # Roadmap
 I would like to add more features to this page that interact with the movement and location of the mouse.
-The idea would be to have the eye's or even the page change colors depending on where the mouse is located specifically.
+The idea would be to have the eyes or even the page change colors depending on where the mouse is located specifically.
 
 # License
 MIT License
