@@ -7,8 +7,8 @@ In this project, the mouse movement event is used to update the position of the 
 
 
 # How To Run
-Open the link. The link will take you to a page where you will see a pair of eyes. 
-Move your mouse around and notice how the eyes follow the movement of your mouse.  
+Click on the link above. It will take you to the "Projects" page. Click "Run Code" on the "Wild Eyes" Project. 
+When the page loads, move your mouse around and notice how the eyes track the movement of your mouse.  
 
 # Roadmap
 I would like to add more features to this page that interact with the movement and location of the mouse.
