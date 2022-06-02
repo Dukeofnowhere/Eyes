@@ -1,6 +1,6 @@
 # Eyes
 
-# Link https://dukeofnowhere.github.io/Portfolio/Projects.html
+# Link https://dukeofnowhere.github.io/Portfolio_/Projects.html
 
 # Description
 In this project, the mouse movement event is used to update the position of the eyes displayed on the page. 
